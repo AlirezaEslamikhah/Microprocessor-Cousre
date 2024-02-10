@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\lenovo\Desktop\Term7\MicroProcessor\HW2\codes\AssemblerApplication2\AssemblerApplication2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:/atmel\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>E:\atmel\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>D:\avr\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lenovo\Desktop\Term7\MicroProcessor\HW2\codes\AssemblerApplication2\AssemblerApplication2\Q4.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:/atmel\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lenovo\Desktop\Term7\MicroProcessor\HW2\codes\AssemblerApplication2\AssemblerApplication2\Debug\AssemblerApplication2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication2.map</FILE>
+  <FILE>AssemblerApplication2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset_handler><FILE>C:\Users\lenovo\Desktop\Term7\MicroProcessor\HW2\codes\AssemblerApplication2\AssemblerApplication2\Q4.asm</FILE><LINE>11</LINE></reset_handler>
+  <gcd_loop><FILE>C:\Users\lenovo\Desktop\Term7\MicroProcessor\HW2\codes\AssemblerApplication2\AssemblerApplication2\Q4.asm</FILE><LINE>26</LINE></gcd_loop>
+  <gcd_done><FILE>C:\Users\lenovo\Desktop\Term7\MicroProcessor\HW2\codes\AssemblerApplication2\AssemblerApplication2\Q4.asm</FILE><LINE>59</LINE></gcd_done>
+  <check_remainder><FILE>C:\Users\lenovo\Desktop\Term7\MicroProcessor\HW2\codes\AssemblerApplication2\AssemblerApplication2\Q4.asm</FILE><LINE>62</LINE></check_remainder>
+  <check_r31><FILE>C:\Users\lenovo\Desktop\Term7\MicroProcessor\HW2\codes\AssemblerApplication2\AssemblerApplication2\Q4.asm</FILE><LINE>42</LINE></check_r31>
+  <next_iteration><FILE>C:\Users\lenovo\Desktop\Term7\MicroProcessor\HW2\codes\AssemblerApplication2\AssemblerApplication2\Q4.asm</FILE><LINE>51</LINE></next_iteration>
+  <found_gcd><FILE>C:\Users\lenovo\Desktop\Term7\MicroProcessor\HW2\codes\AssemblerApplication2\AssemblerApplication2\Q4.asm</FILE><LINE>55</LINE></found_gcd>
+ </LABELS>
+</ASSEMBLER_INFO>
